@@ -1,0 +1,5 @@
+# -MAsnycTask
+使用Handler实现AsnycTask的主线流程
+
+MAsnycTask是模仿实现了AsnycTask的类，使用方法和AsnycTask一致，不过创建线程没有使用线程池
+MainActivity是一个使用MAsnycTask下载文件到本地的案例
